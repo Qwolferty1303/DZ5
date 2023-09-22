@@ -1,0 +1,6 @@
+.variables{
+    background-color: #111315;/* фон */
+    background-color: #b36e00;/* оранжевый */
+    background-color: #373b3e;/* серый */
+    background-color: #131417;/* черный */
+}
